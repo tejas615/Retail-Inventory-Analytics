@@ -1,0 +1,2 @@
+total_store_locations,total_products,total_inventory_units,total_inventory_value_usd,weekly_units_sold,avg_turnover_ratio,fast_moving_products,medium_moving_products,slow_moving_products,non_moving_products,critical_stock_items,low_stock_items,total_alerts,fill_rate_pct,class_a_products,class_b_products,class_c_products,class_a_revenue_pct,class_b_revenue_pct,class_c_revenue_pct,data_updated_date,overall_status
+20,30,184700,9519914.11,126150,62.31,150,150,150,150,0,8,8,100.00,440,105,55,78.61,14.63,6.76,2023-12-31,GOOD

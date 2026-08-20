@@ -1,0 +1,5 @@
+seasonality,total_units_sold,total_revenue_usd,avg_daily_sales,total_days,category_location_count,high_impact_count,normal_impact_count,low_impact_count,high_impact_pct,seasonal_index,season_classification,highest_impact_category,highest_impact_index
+Winter,1925319,98321729.85,100.03,14836,100,76,313,11,19.00,103.73,NORMAL_SEASON,Clothing,127.089750
+Summer,1308655,66363140.30,99.06,11264,100,46,349,5,11.50,102.73,NORMAL_SEASON,Groceries,121.134000
+Spring,852699,43443936.94,93.52,7495,100,4,380,16,1.00,96.98,NORMAL_SEASON,Furniture,101.042750
+Autumn,1279881,64856683.74,93.12,11231,100,6,384,10,1.50,96.57,NORMAL_SEASON,Electronics,101.066375
